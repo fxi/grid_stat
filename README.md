@@ -4,7 +4,7 @@ A mockup for the stat module of [unepgrid.ch](https://unepgrid.ch), showcasing i
 
 ## 🚀 Demo
 
-Check out the live demo: [fxi/grid_stat](https://github.com/fxi/grid_stat)
+Check out the live demo: [grid_stat]( https://unep-grid.github.io/grid_stat/ )
 
 ## 🛠️ Built With
 
